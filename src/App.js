@@ -1,5 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import pact from "@pact-foundation/pact-web";
 
 function App() {
   return (
